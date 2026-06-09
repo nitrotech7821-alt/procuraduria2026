@@ -1,0 +1,8 @@
+streamlit
+firebase-admin
+geopy
+folium
+streamlit-folium
+fpdf
+pandas
+openpyxl
